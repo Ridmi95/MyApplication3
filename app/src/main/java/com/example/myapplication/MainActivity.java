@@ -11,6 +11,15 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
-//        nishiki yapa
+
+        /**
+         *
+         * I am Dinuka
+         *
+         *
+         * */
+      
+      // nishiki yapa
+
     }
 }
