@@ -12,6 +12,9 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
 
 
+
+         //DJ
+
         /**
          *
          * I am Dinuka
@@ -20,6 +23,7 @@ public class MainActivity extends AppCompatActivity {
          * */
       
       // nishiki yapa
+
 
     }
 }
