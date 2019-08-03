@@ -12,12 +12,14 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
 
 
-
         /**
          *
          * I am Dinuka
          *
          *
          * */
+      
+      // nishiki yapa
+
     }
 }
